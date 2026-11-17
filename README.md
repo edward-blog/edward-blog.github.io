@@ -1,2 +1,2 @@
-# seo-experts
+# edward-blog
 SEO Expert
